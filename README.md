@@ -74,7 +74,7 @@ docker compose run --rm tests
 
 Актуальный отчёт доступен после каждого прогона CI:
 
-🔗 https://allkery.github.io/API-test-framework/
+🔗 https://allkerry.github.io/API-test-framework/
 
 ## CI/CD
 
